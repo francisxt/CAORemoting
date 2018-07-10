@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2013\Projects\CAORemoting\ClienteCAO\bin\Debug\ClienteCAO.exe.config
+c:\users\user\documents\visual studio 2013\Projects\CAORemoting\ClienteCAO\bin\Debug\ClienteCAO.exe
+c:\users\user\documents\visual studio 2013\Projects\CAORemoting\ClienteCAO\bin\Debug\ClienteCAO.pdb
+c:\users\user\documents\visual studio 2013\Projects\CAORemoting\ClienteCAO\bin\Debug\ComponenteCAO.dll
+c:\users\user\documents\visual studio 2013\Projects\CAORemoting\ClienteCAO\bin\Debug\ComponenteCAO.pdb
+c:\users\user\documents\visual studio 2013\Projects\CAORemoting\ClienteCAO\obj\Debug\ClienteCAO.exe
+c:\users\user\documents\visual studio 2013\Projects\CAORemoting\ClienteCAO\obj\Debug\ClienteCAO.pdb

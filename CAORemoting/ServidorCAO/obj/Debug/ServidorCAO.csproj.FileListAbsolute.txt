@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\CAORemoting\ServidorCAO\bin\Debug\ServidorCAO.exe.config
+c:\users\user\documents\visual studio 2013\Projects\CAORemoting\ServidorCAO\obj\Debug\ServidorCAO.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\CAORemoting\ServidorCAO\bin\Debug\ServidorCAO.exe
+c:\users\user\documents\visual studio 2013\Projects\CAORemoting\ServidorCAO\bin\Debug\ServidorCAO.pdb
+c:\users\user\documents\visual studio 2013\Projects\CAORemoting\ServidorCAO\bin\Debug\ComponenteCAO.dll
+c:\users\user\documents\visual studio 2013\Projects\CAORemoting\ServidorCAO\bin\Debug\ComponenteCAO.pdb
+c:\users\user\documents\visual studio 2013\Projects\CAORemoting\ServidorCAO\obj\Debug\ServidorCAO.exe
+c:\users\user\documents\visual studio 2013\Projects\CAORemoting\ServidorCAO\obj\Debug\ServidorCAO.pdb
